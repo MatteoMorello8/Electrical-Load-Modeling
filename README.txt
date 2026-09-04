@@ -1,14 +1,13 @@
-In questa cartella sono presenti 4 cartelle inerenti a:
 
-1. Codice Matlab
+1. Matlab Code
 2. Dataset
-3. Immagini
-4. Pesentazione
+3. Images
+4. Presentation
 
-Nella cartella matlab sono presenti lo script generale, il modello per far funzionare la funzione e lo script della funzione stessa denominata "predict_load".
+The Matlab folder contains the general script, the model for running the function, and the function script itself, called "predict_load."
 
-Nella cartella dataset è presente solamente il file "L1_train" che rappresenta il dataset di partenza.
+The Dataset folder contains only the "L1_train" file, which represents the starting dataset.
 
-Nella cartella immagini sono presenti tutte le immagini generate ed esportate dallo script generale matlab.
+The Images folder contains all the images generated and exported by the general Matlab script.
 
-Nella cartella presentazione sono presenti due cartelle con lo stesso contenuto che può essere eseguito sia su macOs sia su Windows, con una copia di backup pdf, inoltre è presente un breve report dove si spiega dettagliatamente tutto ciò che ho usato e che in che modo, giustificando le scelte.
+The Presentation folder contains two folders with the same content, which can be run on both macOS and Windows, with a PDF backup. There is also a short report detailing everything I used and how, justifying my choices.

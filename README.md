@@ -6,6 +6,8 @@ Personal project by Matteo Morello for "Identification and Data Analysis" course
 
 Predict electrical load given weather forecasts
 
+## Contents
+
 1. Matlab Code
 2. Dataset
 3. Images

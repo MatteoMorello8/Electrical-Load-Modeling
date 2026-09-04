@@ -1,3 +1,8 @@
+# Electrical Load Modeling
+Personal project by Matteo Morello for "Identification and Data Analysis" course at the University of Pavia.
+
+## Goal
+Predict electrical load given weather forecasts
 
 1. Matlab Code
 2. Dataset
